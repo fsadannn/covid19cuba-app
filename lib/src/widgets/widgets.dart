@@ -11,3 +11,4 @@ export 'pie_sex_widget.dart';
 export 'resume_widget.dart';
 export 'comparison_widget.dart';
 export 'map_widget.dart';
+export 'location_widget.dart';

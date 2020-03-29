@@ -25,6 +25,8 @@ dependencies:
     path: ./webview_flutter
   package_info: ^0.4.0+16
   introduction_screen: ^1.0.8
+  location: ^3.0.0
+
 
 dev_dependencies:
   flutter_native_splash: ^0.1.9
